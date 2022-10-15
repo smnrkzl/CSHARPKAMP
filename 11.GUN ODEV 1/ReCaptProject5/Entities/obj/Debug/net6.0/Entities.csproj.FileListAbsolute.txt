@@ -1,0 +1,15 @@
+D:\YAZILIM VIDEOLARI\.net proje geliştirme süreci\ReCaptProject4.4\Entities\bin\Debug\net6.0\Entities.deps.json
+D:\YAZILIM VIDEOLARI\.net proje geliştirme süreci\ReCaptProject4.4\Entities\bin\Debug\net6.0\Entities.dll
+D:\YAZILIM VIDEOLARI\.net proje geliştirme süreci\ReCaptProject4.4\Entities\bin\Debug\net6.0\Entities.pdb
+D:\YAZILIM VIDEOLARI\.net proje geliştirme süreci\ReCaptProject4.4\Entities\bin\Debug\net6.0\Core.dll
+D:\YAZILIM VIDEOLARI\.net proje geliştirme süreci\ReCaptProject4.4\Entities\bin\Debug\net6.0\Core.pdb
+D:\YAZILIM VIDEOLARI\.net proje geliştirme süreci\ReCaptProject4.4\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+D:\YAZILIM VIDEOLARI\.net proje geliştirme süreci\ReCaptProject4.4\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\YAZILIM VIDEOLARI\.net proje geliştirme süreci\ReCaptProject4.4\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+D:\YAZILIM VIDEOLARI\.net proje geliştirme süreci\ReCaptProject4.4\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+D:\YAZILIM VIDEOLARI\.net proje geliştirme süreci\ReCaptProject4.4\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+D:\YAZILIM VIDEOLARI\.net proje geliştirme süreci\ReCaptProject4.4\Entities\obj\Debug\net6.0\Entities.csproj.CopyComplete
+D:\YAZILIM VIDEOLARI\.net proje geliştirme süreci\ReCaptProject4.4\Entities\obj\Debug\net6.0\Entities.dll
+D:\YAZILIM VIDEOLARI\.net proje geliştirme süreci\ReCaptProject4.4\Entities\obj\Debug\net6.0\refint\Entities.dll
+D:\YAZILIM VIDEOLARI\.net proje geliştirme süreci\ReCaptProject4.4\Entities\obj\Debug\net6.0\Entities.pdb
+D:\YAZILIM VIDEOLARI\.net proje geliştirme süreci\ReCaptProject4.4\Entities\obj\Debug\net6.0\ref\Entities.dll

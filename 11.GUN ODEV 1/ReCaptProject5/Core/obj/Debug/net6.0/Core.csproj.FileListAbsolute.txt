@@ -1,0 +1,12 @@
+D:\YAZILIM VIDEOLARI\.net proje geliştirme süreci\ReCaptProject4.4\Core\bin\Debug\net6.0\Core.deps.json
+D:\YAZILIM VIDEOLARI\.net proje geliştirme süreci\ReCaptProject4.4\Core\bin\Debug\net6.0\Core.dll
+D:\YAZILIM VIDEOLARI\.net proje geliştirme süreci\ReCaptProject4.4\Core\bin\Debug\net6.0\Core.pdb
+D:\YAZILIM VIDEOLARI\.net proje geliştirme süreci\ReCaptProject4.4\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+D:\YAZILIM VIDEOLARI\.net proje geliştirme süreci\ReCaptProject4.4\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\YAZILIM VIDEOLARI\.net proje geliştirme süreci\ReCaptProject4.4\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+D:\YAZILIM VIDEOLARI\.net proje geliştirme süreci\ReCaptProject4.4\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+D:\YAZILIM VIDEOLARI\.net proje geliştirme süreci\ReCaptProject4.4\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+D:\YAZILIM VIDEOLARI\.net proje geliştirme süreci\ReCaptProject4.4\Core\obj\Debug\net6.0\Core.dll
+D:\YAZILIM VIDEOLARI\.net proje geliştirme süreci\ReCaptProject4.4\Core\obj\Debug\net6.0\refint\Core.dll
+D:\YAZILIM VIDEOLARI\.net proje geliştirme süreci\ReCaptProject4.4\Core\obj\Debug\net6.0\Core.pdb
+D:\YAZILIM VIDEOLARI\.net proje geliştirme süreci\ReCaptProject4.4\Core\obj\Debug\net6.0\ref\Core.dll
